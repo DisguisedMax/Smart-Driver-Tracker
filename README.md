@@ -8,15 +8,6 @@ A mobile driving safety app built with Expo and React Native. Tracks driving beh
 - **Trip History** — full log of past trips with date, distance, and duration
 - **Safety Alerts** — flags events like harsh braking and speed exceeded 120 km/h
 
-## Screenshots
-| Live Trip | Trips |
-|-----------|-------|
-| ![Live Trip](screenshots/LiveTrip.png) | ![Trips](screenshots/AllTrips.png) |
-
-| Parent Dashboard | Teen Dashboard |
-|-----------------|----------------|
-| ![Parent Dashboard](screenshots/ParentDashboard.png) | ![Teen Dashboard](screenshots/TeenDashboard.png) |
-
 ## Tech Stack
 - [Expo](https://expo.dev/) — cross-platform mobile framework
 - React Native — UI components and navigation
